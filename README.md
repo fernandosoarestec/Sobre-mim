@@ -2,7 +2,6 @@ Olá Pessoal,
 - Atualmente resido em Goiânia, mas sou de Belo Horizonte.
 - Cursei Sistemas de Informação na PUC-MINAS.
 - Estou fazendo PÓS em gerenciamento de projetos, como trabalho com projetos, isso pode agregar a minha carreira. 
-- Criei meu primeiro site em php e vendi o mesmo para uma loja de móveis de um amigo. 
 - Depois Trabalhei como suporte técnico na EMIVE em Belo Horizonte e de lá fui convidado por um consultor a trabalhar na Sankhya Gestão de Negócios. 
 - Na Sankhya tive oportunidade de trabalhar em mais de 100 projetos, como consultor em quase todos os Móduls deste ERP, com exceção do fiscal, contábil 
 e Folha de pagamento, o chamado "GENERALISTA".
