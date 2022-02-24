@@ -12,7 +12,7 @@
 * PL/SQL Oracle
 * Postgre
 * PHP
-* VsCode
+
 
 
 
